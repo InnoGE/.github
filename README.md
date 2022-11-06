@@ -19,8 +19,9 @@
 
 ### Our technology stack
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+We love modern technologies and are constantly improving our tech stack. We are currenlty using:
 
-* [![Vue][Vue.js]][Vue-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Tailwindcss][Tailwindcsss.com]][Tailwindcss-url]
+ - Laravel
+ - VueJS
+ - InertiaJS
+ - TailwindCSS
