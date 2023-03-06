@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://innoge.de">
-    <img src="https://innoge.de/assets/innoge_logo.7fa4a6cb.svg" alt="Logo" width="160" height="160">
+    <img src="https://innoge.de/assets/logo/innoge_design_mark.svg" alt="Logo" width="160" height="160">
   </a>
 
   <h3 align="center">Welcome to InnoGE GmbH</h3>
